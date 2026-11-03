@@ -5,7 +5,7 @@ Money, Mixx by Yas and HaloPesa** in Tanzania. Clients click **Pay now** on an i
 TeePay's hosted checkout page, and the invoice is marked paid only after TeePay has verified and
 ledger-posted the payment.
 
-[![CI](https://github.com/teepay/teepay-whmcs/actions/workflows/ci.yml/badge.svg)](https://github.com/teepay/teepay-whmcs/actions/workflows/ci.yml)
+[![CI](https://github.com/kraftonnotgar-spec/teepay-whmcs/actions/workflows/ci.yml/badge.svg)](https://github.com/kraftonnotgar-spec/teepay-whmcs/actions/workflows/ci.yml)
 
 - No Composer or extra PHP packages on your server: the module bundles a small API client.
 - Requires WHMCS 8.x, PHP 7.4 or newer with the `curl`, `json` and `openssl` extensions, and an
